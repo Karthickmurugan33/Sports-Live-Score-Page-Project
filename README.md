@@ -1,3 +1,22 @@
+Sports Live Score Page Project
+Sports Live Score Page ProjectThe Sports Live Score Page Project is a web application that displays live scores of various sports matches. Users can browse through different sports and leagues to see current and upcoming matches, as well as past results. The application is built using HTML, CSS, and JavaScript,React, reactRouter and it utilizes a third-party API to fetch live scores and other sports-related data.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
